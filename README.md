@@ -27,3 +27,14 @@ IDE used -
     * Spyder 3.3
     * Jupyter Notebook
 </pre>
+
+<br/>
+<img src="Plot.png"/>
+<br/>
+
+<pre>
+--> The red curve in the above graph is the actual stock price for the month of January 2017
+    and the blue curve is the predicted stock price
+--> And as we can see our model predicted the trend in stock price and therefore shape is somewhat
+    similar but our RNN was unable to predict the steep changes and that is perfectly acceptable.
+</pre>
